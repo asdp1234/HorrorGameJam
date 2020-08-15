@@ -1,1 +1,1 @@
-# HorrorGameJam :)
+# HorrorGameJam
